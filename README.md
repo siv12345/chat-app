@@ -1,6 +1,5 @@
-# chat-app# Chat App
+# Chat App
 ![chatapp](https://heroku-badge.herokuapp.com/?app=siva-chatapp)
-[Heroku Link]
 
 A realtime chat app written in Javascript using sockets.io and express.js
 
